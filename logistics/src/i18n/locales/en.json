@@ -1,0 +1,387 @@
+{
+  "nav": {
+    "home": "Home",
+    "about": "About",
+    "features": "Features",
+    "pricing": "Pricing",
+    "contact": "Contact",
+    "language": "Language"
+  },
+  "about": {
+    "title": "About Us",
+    "subtitle": "Empowering Logistics Companies Worldwide",
+    "mission": {
+      "title": "Our Mission",
+      "description": "We are dedicated to revolutionizing the logistics industry by providing cutting-edge SaaS solutions that help cargo and logistics companies streamline their operations, reduce costs, and improve customer satisfaction."
+    },
+    "vision": {
+      "title": "Our Vision",
+      "description": "To become the leading platform for logistics management, enabling companies of all sizes to achieve operational excellence and sustainable growth in an increasingly competitive market."
+    },
+    "values": {
+      "title": "Our Values",
+      "innovation": {
+        "title": "Innovation",
+        "description": "We continuously innovate to provide the most advanced features and technologies"
+      },
+      "reliability": {
+        "title": "Reliability",
+        "description": "Our platform is built on robust infrastructure ensuring 99.9% uptime"
+      },
+      "customerFocus": {
+        "title": "Customer Focus",
+        "description": "Your success is our priority. We listen, adapt, and deliver solutions that matter"
+      },
+      "security": {
+        "title": "Security",
+        "description": "Enterprise-grade security to protect your sensitive business data"
+      }
+    },
+    "stats": {
+      "companies": "Companies",
+      "shipments": "Shipments Tracked",
+      "countries": "Countries",
+      "satisfaction": "Customer Satisfaction"
+    },
+    "team": {
+      "title": "Our Team",
+      "subtitle": "Meet the experts behind Logistic",
+      "description": "We are a team of passionate developers, logistics experts, and customer success specialists working together to transform the logistics industry."
+    }
+  },
+  "hero": {
+    "title": "Transform Your Logistics Operations",
+    "subtitle": "Powerful SaaS platform designed for cargo and logistics companies to manage, track, and optimize their entire operation",
+    "badge": "Trusted by 500+ Companies",
+    "cta": "Get Started",
+    "demo": "Watch Demo",
+    "quickFeatures": {
+      "tracking": "Real-Time Tracking",
+      "analytics": "Advanced Analytics",
+      "optimization": "Route Optimization",
+      "inventory": "Smart Inventory"
+    },
+    "benefits": {
+      "benefit1": "Reduce operational costs by up to 35%",
+      "benefit2": "Improve delivery times by 40%",
+      "benefit3": "99.9% platform uptime guarantee"
+    }
+  },
+  "features": {
+    "title": "Everything You Need to Manage Your Logistics",
+    "subtitle": "Comprehensive tools for modern cargo and logistics companies",
+    "realTimeTracking": {
+      "title": "Real-Time Tracking",
+      "description": "Track shipments in real-time with advanced GPS integration and status updates"
+    },
+    "analytics": {
+      "title": "Advanced Analytics",
+      "description": "Get detailed insights into your operations with comprehensive statistics and reports"
+    },
+    "routeOptimization": {
+      "title": "Route Optimization",
+      "description": "Optimize delivery routes to reduce costs and improve efficiency"
+    },
+    "inventory": {
+      "title": "Inventory Management",
+      "description": "Keep track of what goes where with intelligent inventory management"
+    },
+    "automation": {
+      "title": "Process Automation",
+      "description": "Automate repetitive tasks and streamline your workflow"
+    },
+    "security": {
+      "title": "Enterprise Security",
+      "description": "Bank-level security to protect your sensitive data"
+    }
+  },
+  "featuresPage": {
+    "additionalFeatures": {
+      "title": "Additional Features",
+      "subtitle": "Everything you need to run your logistics operations efficiently",
+      "items": [
+        "Multi-language support",
+        "Mobile app access",
+        "API integration",
+        "Custom reporting",
+        "24/7 customer support",
+        "Data backup & recovery"
+      ]
+    },
+    "cta": {
+      "title": "Ready to Get Started?",
+      "subtitle": "Choose the perfect plan for your business needs",
+      "button": "View Pricing Plans"
+    }
+  },
+  "pricingPage": {
+    "trial": "14-day free trial on all plans",
+    "faq": {
+      "title": "Frequently Asked Questions",
+      "items": [
+        {
+          "question": "Can I change my plan later?",
+          "answer": "Yes, you can upgrade or downgrade your plan at any time. Changes will be reflected in your next billing cycle."
+        },
+        {
+          "question": "Is there a free trial?",
+          "answer": "Yes, all plans come with a 14-day free trial. No credit card required."
+        },
+        {
+          "question": "What payment methods do you accept?",
+          "answer": "We accept all major credit cards, PayPal, and bank transfers for enterprise plans."
+        },
+        {
+          "question": "Do you offer discounts for annual plans?",
+          "answer": "Yes, annual plans come with a 20% discount compared to monthly billing."
+        }
+      ]
+    },
+    "cta": {
+      "title": "Still Have Questions?",
+      "subtitle": "Our team is here to help you choose the right plan",
+      "button": "Contact Us"
+    }
+  },
+  "howItWorks": {
+    "title": "How It Works",
+    "subtitle": "Get started in minutes",
+    "step1": {
+      "title": "Sign Up",
+      "description": "Create your account and set up your company profile"
+    },
+    "step2": {
+      "title": "Configure",
+      "description": "Customize the platform according to your business needs"
+    },
+    "step3": {
+      "title": "Start Managing",
+      "description": "Begin tracking shipments and managing your logistics operations"
+    }
+  },
+  "pricing": {
+    "title": "Choose Your Plan",
+    "subtitle": "Flexible pricing for companies of all sizes",
+    "starter": {
+      "name": "Starter",
+      "price": "$99",
+      "period": "/month",
+      "description": "Perfect for small logistics companies",
+      "features": [
+        "Up to 100 shipments/month",
+        "Basic tracking",
+        "Email support",
+        "Mobile app access"
+      ],
+      "cta": "Start Free Trial"
+    },
+    "professional": {
+      "name": "Professional",
+      "price": "$299",
+      "period": "/month",
+      "description": "For growing logistics businesses",
+      "features": [
+        "Up to 1,000 shipments/month",
+        "Advanced analytics",
+        "Route optimization",
+        "Priority support",
+        "API access"
+      ],
+      "cta": "Start Free Trial",
+      "popular": "Most Popular"
+    },
+    "enterprise": {
+      "name": "Enterprise",
+      "price": "Custom",
+      "period": "",
+      "description": "For large-scale operations",
+      "features": [
+        "Unlimited shipments",
+        "Custom integrations",
+        "Dedicated support",
+        "Advanced security",
+        "White-label options"
+      ],
+      "cta": "Contact Sales"
+    }
+  },
+  "cta": {
+    "title": "Ready to Transform Your Logistics?",
+    "subtitle": "Join hundreds of companies already using our platform",
+    "button": "Get Started Today"
+  },
+  "contact": {
+    "title": "Get In Touch",
+    "subtitle": "We'd love to hear from you. Send us a message and we'll respond as soon as possible.",
+    "form": {
+      "name": "Full Name",
+      "namePlaceholder": "Enter your full name",
+      "email": "Email Address",
+      "emailPlaceholder": "Enter your email",
+      "company": "Company Name",
+      "companyPlaceholder": "Enter your company name",
+      "phone": "Phone Number",
+      "phonePlaceholder": "Enter your phone number",
+      "subject": "Subject",
+      "subjectPlaceholder": "What is this regarding?",
+      "message": "Message",
+      "messagePlaceholder": "Tell us more about your needs...",
+      "submit": "Send Message",
+      "sending": "Sending...",
+      "success": "Thank you! We'll get back to you soon.",
+      "error": "Something went wrong. Please try again."
+    },
+    "info": {
+      "title": "Contact Information",
+      "description": "Reach out to us through any of these channels",
+      "email": "Email",
+      "phone": "Phone",
+      "address": "Address",
+      "workingHours": "Working Hours",
+      "hours": "Monday - Friday: 9:00 AM - 6:00 PM"
+    },
+    "office": {
+      "title": "Our Office",
+      "address": "Baku, Azerbaijan"
+    }
+  },
+  "statistics": {
+    "title": "Trusted by Industry Leaders",
+    "subtitle": "Numbers that speak for themselves",
+    "shipments": "Shipments Tracked",
+    "countries": "Countries Served",
+    "efficiency": "Cost Reduction",
+    "companies": "Active Companies",
+    "uptime": "Uptime",
+    "satisfaction": "Satisfaction Rate"
+  },
+  "testimonials": {
+    "title": "What Our Customers Say",
+    "subtitle": "Real feedback from logistics professionals",
+    "testimonial1": {
+      "text": "This platform has completely transformed our operations. We've reduced delivery times by 40% and our customers love the real-time tracking feature.",
+      "name": "Sarah Johnson",
+      "role": "Operations Manager",
+      "company": "Global Cargo Solutions"
+    },
+    "testimonial2": {
+      "text": "The analytics dashboard gives us insights we never had before. We can now make data-driven decisions that save us thousands every month.",
+      "name": "Michael Chen",
+      "role": "CEO",
+      "company": "FastTrack Logistics"
+    },
+    "testimonial3": {
+      "text": "Implementation was seamless and the support team is outstanding. Our team was up and running in just a few days. Highly recommended!",
+      "name": "Emma Rodriguez",
+      "role": "Supply Chain Director",
+      "company": "TradeLink International"
+    }
+  },
+  "partners": {
+    "title": "Trusted by Leading Companies",
+    "subtitle": "Join hundreds of logistics companies already using our platform"
+  },
+  "integrations": {
+    "title": "Integrations",
+    "subtitle": "Connect it to your Logistics",
+    "description": "Easy-to-use and powerful integration platform, your gateway to intuitive tools and expansive customization options that transform logistics operations.",
+    "cloudStorage": "Cloud Storage",
+    "erp": "ERP Systems",
+    "email": "Email Services",
+    "payment": "Payment Gateways",
+    "mobile": "Mobile Apps",
+    "analytics": "Analytics Tools",
+    "settings": "Settings",
+    "automation": "Automation",
+    "featuresTitle": "Integration Benefits",
+    "features": [
+      "One-click integration setup",
+      "Real-time data synchronization",
+      "Secure API connections",
+      "Custom integration support",
+      "Automated workflow triggers",
+      "Multi-platform compatibility"
+    ]
+  },
+  "caseStudies": {
+    "title": "Success Stories",
+    "subtitle": "See how companies are transforming their logistics operations",
+    "readMore": "Read Full Case Study",
+    "case1": {
+      "company": "Global Cargo Solutions",
+      "description": "A leading logistics company reduced operational costs by 35% and improved delivery times by 40% using our platform.",
+      "results": [
+        "35% reduction in operational costs",
+        "40% faster delivery times",
+        "99.5% customer satisfaction rate",
+        "50% increase in shipment volume"
+      ]
+    },
+    "case2": {
+      "company": "FastTrack Logistics",
+      "description": "Streamlined their entire supply chain, reducing manual work by 60% and improving route efficiency significantly.",
+      "results": [
+        "60% reduction in manual work",
+        "25% fuel cost savings",
+        "Real-time tracking for all shipments",
+        "Seamless API integrations"
+      ]
+    },
+    "case3": {
+      "company": "TradeLink International",
+      "description": "Scaled from 500 to 5,000 monthly shipments without increasing their team size, thanks to automation features.",
+      "results": [
+        "10x growth in shipment volume",
+        "Zero increase in team size",
+        "Automated workflow processes",
+        "24/7 customer support access"
+      ]
+    }
+  },
+  "faq": {
+    "title": "Frequently Asked Questions",
+    "subtitle": "Everything you need to know about our platform",
+    "items": [
+      {
+        "question": "How quickly can I get started?",
+        "answer": "You can get started in minutes! Simply sign up, complete your company profile, and you're ready to start managing your logistics operations. Our onboarding process is designed to be quick and intuitive."
+      },
+      {
+        "question": "Is my data secure?",
+        "answer": "Absolutely. We use enterprise-grade encryption, regular security audits, and comply with international data protection standards. Your data is stored in secure, redundant data centers with 99.9% uptime guarantee."
+      },
+      {
+        "question": "Can I integrate with my existing systems?",
+        "answer": "Yes! Our platform offers comprehensive API access and pre-built integrations with popular ERP systems, payment gateways, and other logistics tools. Our team can also help with custom integrations."
+      },
+      {
+        "question": "What kind of support do you provide?",
+        "answer": "We offer 24/7 customer support via email, chat, and phone. Professional and Enterprise plans include priority support with dedicated account managers. We also provide comprehensive documentation and video tutorials."
+      },
+      {
+        "question": "Can I customize the platform for my business?",
+        "answer": "Yes, our platform is highly customizable. You can configure workflows, create custom reports, set up automated notifications, and even white-label the platform for Enterprise customers."
+      },
+      {
+        "question": "What happens if I need to scale up?",
+        "answer": "Scaling is easy! You can upgrade your plan at any time. All your data and configurations are preserved when you upgrade. Enterprise customers can also request custom scaling solutions."
+      }
+    ]
+  },
+  "footer": {
+    "company": "Company",
+    "product": "Product",
+    "resources": "Resources",
+    "legal": "Legal",
+    "about": "About Us",
+    "careers": "Careers",
+    "features": "Features",
+    "pricing": "Pricing",
+    "documentation": "Documentation",
+    "support": "Support",
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Service",
+    "rights": "All rights reserved"
+  }
+}
+

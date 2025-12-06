@@ -1,0 +1,387 @@
+{
+  "nav": {
+    "home": "Ana Səhifə",
+    "about": "Haqqımızda",
+    "features": "Xüsusiyyətlər",
+    "pricing": "Qiymətləndirmə",
+    "contact": "Əlaqə",
+    "language": "Dil"
+  },
+  "about": {
+    "title": "Haqqımızda",
+    "subtitle": "Dünya Üzrə Logistika Şirkətlərinə Güc Veririk",
+    "mission": {
+      "title": "Missiyamız",
+      "description": "Biz yük və logistika şirkətlərinin əməliyyatlarını optimallaşdırmaq, xərcləri azaltmaq və müştəri məmnuniyyətini artırmaq üçün qabaqcıl SaaS həlləri təqdim etməklə logistika sənayesində inqilab etməyə sadiqik."
+    },
+    "vision": {
+      "title": "Vizyonumuz",
+      "description": "Bütün ölçülü şirkətlərin getdikcə rəqabətli bazarda əməliyyat mükemməlliyinə və davamlı inkişafa nail olmasına imkan verən aparıcı logistika idarəetmə platforması olmaq."
+    },
+    "values": {
+      "title": "Dəyərlərimiz",
+      "innovation": {
+        "title": "İnnovasiya",
+        "description": "Ən qabaqcıl xüsusiyyətlər və texnologiyalar təqdim etmək üçün daim innovasiya edirik"
+      },
+      "reliability": {
+        "title": "Etibarlılıq",
+        "description": "Platformamız 99.9% işləmə müddəti təmin edən möhkəm infrastruktur üzərində qurulub"
+      },
+      "customerFocus": {
+        "title": "Müştəri Fokusu",
+        "description": "Sizin uğurunuz bizim prioritetimizdir. Dinləyirik, uyğunlaşırıq və vacib olan həlləri təqdim edirik"
+      },
+      "security": {
+        "title": "Təhlükəsizlik",
+        "description": "Həssas biznes məlumatlarınızı qorumaq üçün korporativ səviyyəli təhlükəsizlik"
+      }
+    },
+    "stats": {
+      "companies": "Şirkətlər",
+      "shipments": "İzlənilən Yüklər",
+      "countries": "Ölkələr",
+      "satisfaction": "Müştəri Məmnuniyyəti"
+    },
+    "team": {
+      "title": "Komandamız",
+      "subtitle": "Logistic-in arxasında duran mütəxəssislərlə tanış olun",
+      "description": "Biz logistika sənayesini dəyişdirmək üçün birlikdə işləyən həvəskarlı inkişaf etdiricilər, logistika mütəxəssisləri və müştəri uğuru mütəxəssisləri komandasıyıq."
+    }
+  },
+  "hero": {
+    "title": "Logistika Əməliyyatlarınızı Dəyişdirin",
+    "subtitle": "Yüklərin idarə edilməsi, izlənməsi və bütün əməliyyatların optimallaşdırılması üçün yük və logistika şirkətləri üçün nəzərdə tutulmuş güclü SaaS platforması",
+    "badge": "500+ Şirkət Tərəfindən Etibar Edilir",
+    "cta": "Başla",
+    "demo": "Demo İzlə",
+    "quickFeatures": {
+      "tracking": "Real-Vaxt İzləmə",
+      "analytics": "Qabaqcıl Analitika",
+      "optimization": "Marşrut Optimallaşdırması",
+      "inventory": "Ağıllı İnventar"
+    },
+    "benefits": {
+      "benefit1": "Əməliyyat xərclərini 35%-ə qədər azaldın",
+      "benefit2": "Çatdırılma müddətini 40% yaxşılaşdırın",
+      "benefit3": "99.9% platform işləmə müddəti zəmanəti"
+    }
+  },
+  "features": {
+    "title": "Logistikanızı İdarə Etmək Üçün Lazım Olan Hər Şey",
+    "subtitle": "Müasir yük və logistika şirkətləri üçün geniş vasitələr",
+    "realTimeTracking": {
+      "title": "Real-Vaxt İzləmə",
+      "description": "Qabaqcıl GPS inteqrasiyası və status yeniləmələri ilə yükləri real vaxtda izləyin"
+    },
+    "analytics": {
+      "title": "Qabaqcıl Analitika",
+      "description": "Ətraflı statistikalar və hesabatlar ilə əməliyyatlarınız haqqında ətraflı məlumat əldə edin"
+    },
+    "routeOptimization": {
+      "title": "Marşrut Optimallaşdırması",
+      "description": "Xərcləri azaltmaq və səmərəliliyi artırmaq üçün çatdırılma marşrutlarını optimallaşdırın"
+    },
+    "inventory": {
+      "title": "İnventar İdarəetməsi",
+      "description": "Ağıllı inventar idarəetməsi ilə nəyin hara getdiyini izləyin"
+    },
+    "automation": {
+      "title": "Proses Avtomatlaşdırması",
+      "description": "Təkrarlanan tapşırıqları avtomatlaşdırın və iş axınınızı optimallaşdırın"
+    },
+    "security": {
+      "title": "Korporativ Təhlükəsizlik",
+      "description": "Həssas məlumatlarınızı qorumaq üçün bank səviyyəli təhlükəsizlik"
+    }
+  },
+  "featuresPage": {
+    "additionalFeatures": {
+      "title": "Əlavə Xüsusiyyətlər",
+      "subtitle": "Logistika əməliyyatlarınızı səmərəli idarə etmək üçün lazım olan hər şey",
+      "items": [
+        "Çoxdilli dəstək",
+        "Mobil tətbiq girişi",
+        "API inteqrasiyası",
+        "Fərdi hesabatlar",
+        "24/7 müştəri dəstəyi",
+        "Məlumat ehtiyat nüsxəsi və bərpası"
+      ]
+    },
+    "cta": {
+      "title": "Başlamağa Hazırsınız?",
+      "subtitle": "Biznes ehtiyaclarınız üçün mükəmməl planı seçin",
+      "button": "Qiymət Planlarını Görün"
+    }
+  },
+  "pricingPage": {
+    "trial": "Bütün planlarda 14 günlük pulsuz sınaq",
+    "faq": {
+      "title": "Tez-tez Verilən Suallar",
+      "items": [
+        {
+          "question": "Planımı daha sonra dəyişə bilərəmmi?",
+          "answer": "Bəli, planınızı istənilən vaxt yüksəldə və ya aşağı sala bilərsiniz. Dəyişikliklər növbəti ödəniş dövründə əks olunacaq."
+        },
+        {
+          "question": "Pulsuz sınaq var?",
+          "answer": "Bəli, bütün planlar 14 günlük pulsuz sınaq ilə gəlir. Kredit kartı tələb olunmur."
+        },
+        {
+          "question": "Hansı ödəniş üsullarını qəbul edirsiniz?",
+          "answer": "Biz bütün əsas kredit kartlarını, PayPal və korporativ planlar üçün bank köçürmələrini qəbul edirik."
+        },
+        {
+          "question": "İllik planlar üçün endirim təklif edirsiniz?",
+          "answer": "Bəli, illik planlar aylıq ödənişlə müqayisədə 20% endirim ilə gəlir."
+        }
+      ]
+    },
+    "cta": {
+      "title": "Hələ də Suallarınız Varmı?",
+      "subtitle": "Komandamız düzgün planı seçməkdə sizə kömək etmək üçün buradadır",
+      "button": "Bizimlə Əlaqə"
+    }
+  },
+  "howItWorks": {
+    "title": "Necə İşləyir",
+    "subtitle": "Dəqiqələr ərzində başlayın",
+    "step1": {
+      "title": "Qeydiyyat",
+      "description": "Hesabınızı yaradın və şirkət profilini quraşdırın"
+    },
+    "step2": {
+      "title": "Konfiqurasiya",
+      "description": "Platformanı biznes ehtiyaclarınıza uyğun fərdiləşdirin"
+    },
+    "step3": {
+      "title": "İdarəetməyə Başlayın",
+      "description": "Yükləri izləməyə və logistika əməliyyatlarınızı idarə etməyə başlayın"
+    }
+  },
+  "pricing": {
+    "title": "Planınızı Seçin",
+    "subtitle": "Bütün ölçülü şirkətlər üçün çevik qiymətləndirmə",
+    "starter": {
+      "name": "Başlanğıc",
+      "price": "$99",
+      "period": "/ay",
+      "description": "Kiçik logistika şirkətləri üçün mükəmməl",
+      "features": [
+        "Ayda 100-ə qədər yük",
+        "Əsas izləmə",
+        "E-poçt dəstəyi",
+        "Mobil tətbiq girişi"
+      ],
+      "cta": "Pulsuz Sınaq Başlat"
+    },
+    "professional": {
+      "name": "Peşəkar",
+      "price": "$299",
+      "period": "/ay",
+      "description": "İnkişaf edən logistika biznesləri üçün",
+      "features": [
+        "Ayda 1,000-ə qədər yük",
+        "Qabaqcıl analitika",
+        "Marşrut optimallaşdırması",
+        "Prioritet dəstək",
+        "API girişi"
+      ],
+      "cta": "Pulsuz Sınaq Başlat",
+      "popular": "Ən Populyar"
+    },
+    "enterprise": {
+      "name": "Korporativ",
+      "price": "Fərdi",
+      "period": "",
+      "description": "Böyük miqyaslı əməliyyatlar üçün",
+      "features": [
+        "Limitsiz yüklər",
+        "Fərdi inteqrasiyalar",
+        "Xüsusi dəstək",
+        "Qabaqcıl təhlükəsizlik",
+        "Ağ etiket variantları"
+      ],
+      "cta": "Satışla Əlaqə"
+    }
+  },
+  "cta": {
+    "title": "Logistikanızı Dəyişdirməyə Hazırsınız?",
+    "subtitle": "Artıq platformamızdan istifadə edən yüzlərlə şirkətə qoşulun",
+    "button": "Bu Gün Başlayın"
+  },
+  "contact": {
+    "title": "Bizimlə Əlaqə",
+    "subtitle": "Sizdən xəbər almaq istəyirik. Bizə mesaj göndərin və mümkün qədər tez cavab verəcəyik.",
+    "form": {
+      "name": "Ad Soyad",
+      "namePlaceholder": "Ad və soyadınızı daxil edin",
+      "email": "E-poçt Ünvanı",
+      "emailPlaceholder": "E-poçt ünvanınızı daxil edin",
+      "company": "Şirkət Adı",
+      "companyPlaceholder": "Şirkət adınızı daxil edin",
+      "phone": "Telefon Nömrəsi",
+      "phonePlaceholder": "Telefon nömrənizi daxil edin",
+      "subject": "Mövzu",
+      "subjectPlaceholder": "Bu nə ilə bağlıdır?",
+      "message": "Mesaj",
+      "messagePlaceholder": "Ehtiyaclarınız haqqında daha çox məlumat verin...",
+      "submit": "Mesaj Göndər",
+      "sending": "Göndərilir...",
+      "success": "Təşəkkürlər! Tezliklə sizinlə əlaqə saxlayacağıq.",
+      "error": "Nəsə səhv getdi. Zəhmət olmasa yenidən cəhd edin."
+    },
+    "info": {
+      "title": "Əlaqə Məlumatları",
+      "description": "Bu kanallardan hər hansı biri ilə bizimlə əlaqə saxlayın",
+      "email": "E-poçt",
+      "phone": "Telefon",
+      "address": "Ünvan",
+      "workingHours": "İş Saatları",
+      "hours": "Bazar ertəsi - Cümə: 09:00 - 18:00"
+    },
+    "office": {
+      "title": "Ofisimiz",
+      "address": "Bakı, Azərbaycan"
+    }
+  },
+  "statistics": {
+    "title": "Sənaye Liderləri Tərəfindən Etibar Edilir",
+    "subtitle": "Özləri üçün danışan rəqəmlər",
+    "shipments": "İzlənilən Yüklər",
+    "countries": "Xidmət Göstərilən Ölkələr",
+    "efficiency": "Xərc Azaldılması",
+    "companies": "Aktiv Şirkətlər",
+    "uptime": "İşləmə Müddəti",
+    "satisfaction": "Məmnuniyyət Dərəcəsi"
+  },
+  "testimonials": {
+    "title": "Müştərilərimiz Nə Deyir",
+    "subtitle": "Logistika mütəxəssislərindən real rəylər",
+    "testimonial1": {
+      "text": "Bu platforma əməliyyatlarımızı tamamilə dəyişdirdi. Çatdırılma müddətini 40% azaltdıq və müştərilərimiz real-vaxt izləmə xüsusiyyətini sevir.",
+      "name": "Sarah Johnson",
+      "role": "Əməliyyat Meneceri",
+      "company": "Global Cargo Solutions"
+    },
+    "testimonial2": {
+      "text": "Analitika paneli bizə əvvəl heç vaxt olmayan məlumatlar verir. İndi hər ay minlərlə qənaət edən məlumat əsaslı qərarlar qəbul edə bilirik.",
+      "name": "Michael Chen",
+      "role": "CEO",
+      "company": "FastTrack Logistics"
+    },
+    "testimonial3": {
+      "text": "Tətbiq etmə problemsiz oldu və dəstək komandası mükəmməldir. Komandamız bir neçə gün ərzində işə başladı. Çox tövsiyə olunur!",
+      "name": "Emma Rodriguez",
+      "role": "Təchizat Zənciri Direktoru",
+      "company": "TradeLink International"
+    }
+  },
+  "partners": {
+    "title": "Aparıcı Şirkətlər Tərəfindən Etibar Edilir",
+    "subtitle": "Artıq platformamızdan istifadə edən yüzlərlə logistika şirkətinə qoşulun"
+  },
+  "integrations": {
+    "title": "İnteqrasiyalar",
+    "subtitle": "Logistikanıza Qoşun",
+    "description": "İstifadəsi asan və güclü inteqrasiya platforması, logistika əməliyyatlarını dəyişdirən intuitiv alətlər və geniş fərdiləşdirmə seçimlərinə açılan qapınız.",
+    "cloudStorage": "Bulud Saxlama",
+    "erp": "ERP Sistemləri",
+    "email": "E-poçt Xidmətləri",
+    "payment": "Ödəniş Şlüzları",
+    "mobile": "Mobil Tətbiqlər",
+    "analytics": "Analitika Alətləri",
+    "settings": "Parametrlər",
+    "automation": "Avtomatlaşdırma",
+    "featuresTitle": "İnteqrasiya Üstünlükləri",
+    "features": [
+      "Bir klik inteqrasiya quraşdırması",
+      "Real-vaxt məlumat sinxronizasiyası",
+      "Təhlükəsiz API əlaqələri",
+      "Fərdi inteqrasiya dəstəyi",
+      "Avtomatlaşdırılmış iş axını triggerləri",
+      "Çox platforma uyğunluğu"
+    ]
+  },
+  "caseStudies": {
+    "title": "Uğur Hekayələri",
+    "subtitle": "Şirkətlərin logistika əməliyyatlarını necə dəyişdirdiyini görün",
+    "readMore": "Tam İş Təcrübəsini Oxuyun",
+    "case1": {
+      "company": "Global Cargo Solutions",
+      "description": "Aparıcı logistika şirkəti platformamızdan istifadə edərək əməliyyat xərclərini 35% azaltdı və çatdırılma müddətini 40% yaxşılaşdırdı.",
+      "results": [
+        "Əməliyyat xərclərində 35% azalma",
+        "40% daha sürətli çatdırılma müddəti",
+        "99.5% müştəri məmnuniyyəti dərəcəsi",
+        "Yük həcmində 50% artım"
+      ]
+    },
+    "case2": {
+      "company": "FastTrack Logistics",
+      "description": "Bütün təchizat zəncirini optimallaşdırdı, əl işini 60% azaltdı və marşrut səmərəliliyini əhəmiyyətli dərəcədə yaxşılaşdırdı.",
+      "results": [
+        "Əl işində 60% azalma",
+        "25% yanacaq xərci qənaəti",
+        "Bütün yüklər üçün real-vaxt izləmə",
+        "Problemsiz API inteqrasiyaları"
+      ]
+    },
+    "case3": {
+      "company": "TradeLink International",
+      "description": "Avtomatlaşdırma xüsusiyyətləri sayəsində komanda ölçüsünü artırmadan aylıq yükləri 500-dən 5,000-ə qədər artırdı.",
+      "results": [
+        "Yük həcmində 10 dəfə artım",
+        "Komanda ölçüsündə sıfır artım",
+        "Avtomatlaşdırılmış iş axını prosesləri",
+        "24/7 müştəri dəstəyi girişi"
+      ]
+    }
+  },
+  "faq": {
+    "title": "Tez-tez Verilən Suallar",
+    "subtitle": "Platformamız haqqında bilmək istədiyiniz hər şey",
+    "items": [
+      {
+        "question": "Nə qədər tez başlaya bilərəm?",
+        "answer": "Dəqiqələr ərzində başlaya bilərsiniz! Sadəcə qeydiyyatdan keçin, şirkət profilini tamamlayın və logistika əməliyyatlarınızı idarə etməyə hazırsınız. Onboarding prosesimiz sürətli və intuitiv olmaq üçün dizayn edilib."
+      },
+      {
+        "question": "Məlumatlarım təhlükəsizdirmi?",
+        "answer": "Mütləq. Biz korporativ səviyyəli şifrələmə, müntəzəm təhlükəsizlik auditləri istifadə edirik və beynəlxalq məlumat qorunması standartlarına uyğun gəlirik. Məlumatlarınız 99.9% işləmə müddəti zəmanəti ilə təhlükəsiz, redundant məlumat mərkəzlərində saxlanılır."
+      },
+      {
+        "question": "Mövcud sistemlərimlə inteqrasiya edə bilərəmmi?",
+        "answer": "Bəli! Platformamız geniş API girişi və məşhur ERP sistemləri, ödəniş şlüzları və digər logistika alətləri ilə hazır inteqrasiyalar təklif edir. Komandamız həmçinin fərdi inteqrasiyalarda kömək edə bilər."
+      },
+      {
+        "question": "Nə cür dəstək təklif edirsiniz?",
+        "answer": "Biz e-poçt, çat və telefon vasitəsilə 24/7 müştəri dəstəyi təklif edirik. Peşəkar və Korporativ planlar xüsusi hesab menecerləri ilə prioritet dəstək daxildir. Həmçinin geniş sənədləşmə və video təlimatlar təqdim edirik."
+      },
+      {
+        "question": "Platformanı biznesim üçün fərdiləşdirə bilərəmmi?",
+        "answer": "Bəli, platformamız yüksək dərəcədə fərdiləşdirilə biləndir. İş axınlarını konfiqurasiya edə, fərdi hesabatlar yarada, avtomatlaşdırılmış bildirişlər qura və hətta Korporativ müştərilər üçün platformanı ağ etiketləyə bilərsiniz."
+      },
+      {
+        "question": "Mənə miqyaslandırma lazım olsa nə olar?",
+        "answer": "Miqyaslandırma asandır! Planınızı istənilən vaxt yüksəldə bilərsiniz. Bütün məlumatlarınız və konfiqurasiyalarınız yüksəldərkən qorunur. Korporativ müştərilər həmçinin fərdi miqyaslandırma həlləri tələb edə bilər."
+      }
+    ]
+  },
+  "footer": {
+    "company": "Şirkət",
+    "product": "Məhsul",
+    "resources": "Resurslar",
+    "legal": "Hüquqi",
+    "about": "Haqqımızda",
+    "careers": "Karyera",
+    "features": "Xüsusiyyətlər",
+    "pricing": "Qiymətləndirmə",
+    "documentation": "Sənədləşmə",
+    "support": "Dəstək",
+    "privacy": "Məxfilik Siyasəti",
+    "terms": "Xidmət Şərtləri",
+    "rights": "Bütün hüquqlar qorunur"
+  }
+}
+
