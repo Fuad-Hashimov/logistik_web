@@ -45,7 +45,7 @@ const HowItWorks = () => {
           </p>
         </motion.div>
 
-        <div className="grid grid-cols-1 md:grid-cols-3 gap-8 max-w-5xl mx-auto">
+        <div className="grid grid-cols-1 md:grid-cols-3 gap-8 max-w-5xl mx-auto relative">
           {steps.map((step, index) => {
             const Icon = step.icon;
             return (
@@ -57,17 +57,17 @@ const HowItWorks = () => {
                 transition={{ delay: index * 0.2, duration: 0.6 }}
                 className="relative"
               >
+                {index < steps.length - 1 && (
+                  <div className="hidden md:block absolute h-0.5 bg-gradient-to-r from-blue-300 to-purple-300" style={{ top: '2.5rem', left: 'calc(50% + 2.5rem)', width: 'calc(50% + 2rem + 50%)' }}></div>
+                )}
                 <div className="text-center">
                   <div className="relative inline-block mb-6">
                     <div
-                      className={`w-20 h-20 bg-gradient-to-br ${step.gradient} rounded-full flex items-center justify-center shadow-lg`}
+                      className={`w-20 h-20 bg-gradient-to-br ${step.gradient} rounded-full flex items-center justify-center shadow-lg relative z-10`}
                     >
                       <Icon className="w-10 h-10 text-white" />
                     </div>
-                    {index < steps.length - 1 && (
-                      <div className="hidden md:block absolute top-1/2 left-full w-full h-0.5 bg-gradient-to-r from-blue-300 to-purple-300 transform -translate-y-1/2 -translate-x-1/2"></div>
-                    )}
-                    <div className="absolute -top-2 -right-2 w-8 h-8 bg-blue-600 rounded-full flex items-center justify-center text-white font-bold text-sm">
+                    <div className="absolute -top-2 -right-2 w-8 h-8 bg-blue-600 rounded-full flex items-center justify-center text-white font-bold text-sm z-20">
                       {index + 1}
                     </div>
                   </div>
