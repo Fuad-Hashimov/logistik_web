@@ -382,6 +382,59 @@
     "privacy": "Məxfilik Siyasəti",
     "terms": "Xidmət Şərtləri",
     "rights": "Bütün hüquqlar qorunur"
+  },
+  "benefits": {
+    "title": "Niyə Bizi Seçməlisiniz?",
+    "subtitle": "Biznesinizi bir üst səviyyəyə qaldırın",
+    "speed": {
+      "title": "İldırım Sürəti",
+      "description": "Yükləri əmsalsız sürət və səmərəliliklə emal edin və əməliyyatları idarə edin"
+    },
+    "security": {
+      "title": "Bank Səviyyəli Təhlükəsizlik",
+      "description": "Məlumatlarınız korporativ səviyyəli şifrələmə və təhlükəsizlik protokolları ilə qorunur"
+    },
+    "global": {
+      "title": "Qlobal Çatdırılma",
+      "description": "Bir neçə ölkə və region üzrə logistika əməliyyatlarını problemsiz idarə edin"
+    },
+    "time": {
+      "title": "Vaxt Qənaəti",
+      "description": "Təkrarlanan tapşırıqları avtomatlaşdırın və hər gün saatlarla əl işi qənaət edin"
+    },
+    "cost": {
+      "title": "Maliyyə Səmərəliliyi",
+      "description": "Ağıllı marşrut optimallaşdırması ilə əməliyyat xərclərini 35%-ə qədər azaldın"
+    },
+    "growth": {
+      "title": "Miqyaslanabilir Artım",
+      "description": "Biznesiniz böyüdükcə əməliyyatlarınızı limitsiz miqyaslandırın"
+    },
+    "feature1": "24/7 Müştəri Dəstəyi",
+    "feature2": "Real-vaxt Analitika Paneli",
+    "feature3": "Mobil Tətbiq Girişi",
+    "feature4": "API İnteqrasiyası Hazırdır"
+  },
+  "security": {
+    "title": "Təhlükəsizlik və Etibarlılıq",
+    "subtitle": "Məlumatlarınız ən yüksək təhlükəsizlik standartları ilə qorunur",
+    "ssl": "SSL Şifrələnmiş",
+    "gdpr": "GDPR Uyğun",
+    "iso": "ISO 27001",
+    "soc": "SOC 2 Tip II",
+    "uptime": "99.9% İşləmə Müddəti",
+    "backup": "Günlük Ehtiyat Nüsxələr",
+    "uptimeLabel": "İşləmə Müddəti Zəmanəti",
+    "encryption": "SSL Şifrələmə",
+    "support": "Dəstək Xidməti"
+  },
+  "newsletter": {
+    "title": "Yeniliklərdən Xəbərdar Olun",
+    "subtitle": "Yeni xüsusiyyətlər, yeniləmələr və xüsusi təkliflərdən ilk siz xəbərdar olun",
+    "placeholder": "E-poçt ünvanınız",
+    "button": "Abunə Ol",
+    "submitted": "Abunə oldunuz!",
+    "privacy": "E-poçt ünvanınız təhlükəsizdir. Spam göndərmirik."
   }
 }
 

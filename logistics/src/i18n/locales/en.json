@@ -382,6 +382,59 @@
     "privacy": "Privacy Policy",
     "terms": "Terms of Service",
     "rights": "All rights reserved"
+  },
+  "benefits": {
+    "title": "Why Choose Us?",
+    "subtitle": "Take your business to the next level",
+    "speed": {
+      "title": "Lightning Fast",
+      "description": "Process shipments and manage operations with unprecedented speed and efficiency"
+    },
+    "security": {
+      "title": "Bank-Level Security",
+      "description": "Your data is protected with enterprise-grade encryption and security protocols"
+    },
+    "global": {
+      "title": "Global Reach",
+      "description": "Manage logistics operations across multiple countries and regions seamlessly"
+    },
+    "time": {
+      "title": "Time Saving",
+      "description": "Automate repetitive tasks and save hours of manual work every day"
+    },
+    "cost": {
+      "title": "Cost Effective",
+      "description": "Reduce operational costs by up to 35% with intelligent route optimization"
+    },
+    "growth": {
+      "title": "Scalable Growth",
+      "description": "Scale your operations without limits as your business grows"
+    },
+    "feature1": "24/7 Customer Support",
+    "feature2": "Real-time Analytics Dashboard",
+    "feature3": "Mobile App Access",
+    "feature4": "API Integration Ready"
+  },
+  "security": {
+    "title": "Security & Trust",
+    "subtitle": "Your data is protected by the highest security standards",
+    "ssl": "SSL Encrypted",
+    "gdpr": "GDPR Compliant",
+    "iso": "ISO 27001",
+    "soc": "SOC 2 Type II",
+    "uptime": "99.9% Uptime",
+    "backup": "Daily Backups",
+    "uptimeLabel": "Uptime Guarantee",
+    "encryption": "SSL Encryption",
+    "support": "Support Service"
+  },
+  "newsletter": {
+    "title": "Stay Updated",
+    "subtitle": "Be the first to know about new features, updates, and special offers",
+    "placeholder": "Your email address",
+    "button": "Subscribe",
+    "submitted": "Subscribed!",
+    "privacy": "Your email is safe. We don't spam."
   }
 }
 
